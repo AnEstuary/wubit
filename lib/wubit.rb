@@ -1,5 +1,7 @@
 require "wubit/version"
 
 module Wubit
-  # Your code goes here...
+  def self.foo
+  	"Checking if things are working :D "
+  end
 end
