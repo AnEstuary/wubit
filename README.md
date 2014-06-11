@@ -1,6 +1,6 @@
 # Wubit
 
-TODO: Write a gem description
+Drop the bass on your strings
 
 ## Installation
 
@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`require 'wubit'`
+
+Then you can call `#wubcase` and `#wubcase!` to wub your strings.
+
+Or `include Wubit` and get the `#wubit` method to call with string args.
 
 ## Contributing
 
